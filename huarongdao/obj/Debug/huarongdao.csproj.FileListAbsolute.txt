@@ -1,0 +1,9 @@
+E:\C09_C#_Code\huarongdao\huarongdao\bin\Debug\huarongdao.exe
+E:\C09_C#_Code\huarongdao\huarongdao\bin\Debug\huarongdao.pdb
+E:\C09_C#_Code\huarongdao\huarongdao\bin\Debug\UnityEngine.dll
+E:\C09_C#_Code\huarongdao\huarongdao\bin\Debug\UnityEngine.xml
+E:\C09_C#_Code\huarongdao\huarongdao\obj\Debug\huarongdao.csproj.AssemblyReference.cache
+E:\C09_C#_Code\huarongdao\huarongdao\obj\Debug\huarongdao.csproj.CoreCompileInputs.cache
+E:\C09_C#_Code\huarongdao\huarongdao\obj\Debug\huarongdao.csproj.CopyComplete
+E:\C09_C#_Code\huarongdao\huarongdao\obj\Debug\huarongdao.exe
+E:\C09_C#_Code\huarongdao\huarongdao\obj\Debug\huarongdao.pdb
